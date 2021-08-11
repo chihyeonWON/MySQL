@@ -1,0 +1,1 @@
+SELECT * FROM myMember WHERE name LIKE '김%' OR name LIKE '이%';

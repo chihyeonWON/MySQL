@@ -1,0 +1,1 @@
+ALTER TABLE testTable ADD gender enum('m','w','x') default 'x' comment '고객 성별- m은 남성 w는 여성 x는 선택안함' AFTER birthDay;

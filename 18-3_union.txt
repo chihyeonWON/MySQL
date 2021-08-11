@@ -1,0 +1,1 @@
+(SELECT name, email FROM dropOutOld) UNION (SELECT name, email FROM dropOutNew);

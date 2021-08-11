@@ -1,0 +1,7 @@
+INSERT INTO schoolRecord(english, math, science, japanese, coding) VALUES(67, 4, 20, 100, 100);
+INSERT INTO schoolRecord(class, english, math, science, japanese, coding) VALUES(1, 55, 60, 80, 50, 100);
+INSERT INTO schoolRecord(class, english, math, science, japanese, coding) VALUES(2, 100, 90, 100, 50, 100);
+INSERT INTO schoolRecord(class, english, math, science, japanese, coding) VALUES(2, 90, 86, 100, 70, 100);
+INSERT INTO schoolRecord(class, english, math, science, japanese, coding) VALUES(3, 80, 50, 60, 20, 100);
+INSERT INTO schoolRecord(class, english, math, science, japanese, coding) VALUES(3, 100, 80, 70, 20, 80);
+INSERT INTO schoolRecord(class, english, math, science, japanese, coding) VALUES(4, 100, 100, 100, 30, 40);

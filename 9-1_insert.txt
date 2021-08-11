@@ -1,0 +1,2 @@
+INSERT INTO myMember(userId, name, password, phone, email, birthDay, gender, regTime)
+VALUES('everdevelHost', '김태영', 'mm281118', '010-1234-5678', 'everdevel@everdevel.com', '1986-04-04', 'm', now());

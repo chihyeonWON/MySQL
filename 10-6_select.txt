@@ -1,0 +1,1 @@
+SELECT * FROM myMember WHERE myMemberID >= 1 AND myMemberID <=3;

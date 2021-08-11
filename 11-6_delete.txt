@@ -1,0 +1,1 @@
+DELETE FROM myMember WHERE myMemberId = 5;

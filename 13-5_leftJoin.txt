@@ -1,0 +1,1 @@
+SELECT m.name, r.content, r.regTime FROM myMember m LEFT JOIN prodReview r ON (m.myMemberID = r.myMemberID);

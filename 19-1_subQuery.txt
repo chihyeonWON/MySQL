@@ -1,0 +1,1 @@
+SELECT * FROM schoolRecord WHERE english = max(english);

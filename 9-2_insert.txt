@@ -1,0 +1,2 @@
+INSERT INTO myMember(userId, name, password, phone, birthDay, regTime)
+VALUES('jake', '김태헌', 'djflkajl4783', '010-1234-5678', '1988-06-22', now());

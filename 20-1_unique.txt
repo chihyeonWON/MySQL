@@ -1,0 +1,1 @@
+ALTER TABLE myMember modify email varchar(30) NOT NULL UNIQUE COMMENT '고객의 이메일 주소';

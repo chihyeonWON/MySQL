@@ -1,0 +1,10 @@
+CREATE TABLE schoolRecord (
+  studentID int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '학생 번호',
+  class tinyint unsigned comment '소속 클래스(반)',
+  english tinyint unsigned NOT NULL comment '영어 점수',
+  math tinyint unsigned NOT NULL comment '수학 점수',
+  science tinyint unsigned NOT NULL comment '과학 점수',
+  japanese tinyint unsigned NOT NULL comment '일본어 점수',
+  coding tinyint unsigned NOT NULL comment '코딩 점수',
+  PRIMARY KEY (studentID)
+) CHARSET=utf8 comment='성적 정보';

@@ -1,0 +1,1 @@
+SELECT m.name, r.content, r.regTime AS reviewRegTime FROM myMember m JOIN prodReview r ON (m.myMemberID = r.myMemberID);

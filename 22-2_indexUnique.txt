@@ -1,0 +1,10 @@
+create table testTable(
+myMemberID int unsigned auto_increment comment '고객의 고유번호',
+userId varchar(15) not null comment '고객 아이디',
+name varchar(10) not null comment '고객명',
+password varchar(30) not null comment '고객 비밀번호',
+email varchar(30) not null comment '고객의 이메일 주소',
+INDEX(name),
+UNIQUE(email),
+primary key(myMemberID))
+charset=utf8 comment='테스트 테이블';

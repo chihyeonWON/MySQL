@@ -1,0 +1,10 @@
+INSERT INTO dropOutOld(name,email) VALUES('김태영', 'ever@everdevel.com');
+INSERT INTO dropOutOld(name,email) VALUES('김태헌', 'jake@everdevel.com');
+INSERT INTO dropOutOld(name,email) VALUES('이지형', 'tigger@everdevel.com');
+INSERT INTO dropOutOld(name,email) VALUES('전윤동', 'nelly@everdevel.com');
+INSERT INTO dropOutOld(name,email) VALUES('노진우', 'cooper@everdevel.com');
+INSERT INTO dropOutOld(name,email) VALUES('최기욱', 'btm@everdevel.com');
+
+INSERT INTO dropOutNew(name,email) VALUES('최기욱', 'btm@everdevel.com');
+INSERT INTO dropOutNew(name,email) VALUES('한정은', 'hanje@everdevel.com');
+INSERT INTO dropOutNew(name,email) VALUES('이정미', 'stella@everdevel.com');
